@@ -19,7 +19,7 @@
 영역 5 - [시각화](Domain_5_-_Visualization/README.md) | 12%
 영역 6 - [데이터 ](Domain_6_-_Security/README.md) | 20%
 
-* [실제 10개 샘플문제(PDF)](https://d0.awsstatic.com/training-and-certification/docs-bigdata-spec/AWS_Certified_Big_Data_Specialty_SampleExam.pdf).
+* [실제 10개 샘플문제(PDF)](https://d0.awsstatic.com/training-and-certification/docs-bigdata-spec/AWS_Certified_Big_Data_Specialty_SampleExam.pdf)
 
 #
 
