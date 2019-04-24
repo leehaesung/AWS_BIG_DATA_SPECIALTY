@@ -45,7 +45,7 @@ AWS 공인 개발자 - 어소시에이트 또는 AWS 공인 SysOps 관리자 - �
 AWS 교육(https://aws.amazon.com/ko/training/)
 * 빅 데이터 기술 기초: https://aws.amazon.com/ko/training/course-descriptions/bigdata-fundamentals/
 * AWS 기반 빅 데이터: https://aws.amazon.com/ko/training/course-descriptions/bigdata/
-AWS 백서(aws.amazon.com/ko/whitepapers) Kindle 및 .pdf
+AWS 백서(https://aws.amazon.com/ko/whitepapers/) Kindle 및 .pdf
 * AWS 클라우드 컴퓨팅 백서(https://aws.amazon.com/ko/whitepapers/), 특히 데이터베이스 및 분석
 * AWS 설명서(https://docs.aws.amazon.com/index.html)
 * AWS FAQ(https://aws.amazon.com/ko/faqs/)
