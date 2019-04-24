@@ -8,6 +8,21 @@
 * 빅 데이터 설계 및 유지 관리
 * 도구를 사용하여 데이터 분석 자동화
 
+### [AWS 공인 빅 데이터 -
+전문 분야 시험 안내서(PDF)](https://d1.awsstatic.com/training-and-certification/docs-bigdata-spec/AWS%20Certified%20Big%20Data%20-%20Specialty_Exam%20Guide_v1.2_FINAL_KOR.pdf) 시험범위와 구성을 보여줍니다.
+
+영역 | 시험분포(%)
+-------|-------------------
+영역 1 - [Collection](Domain_1_-_Collection/README.md) | 17%
+영역 2 - [Storage](Domain_2_-_Storage/README.md) | 17%
+영역 3 - [Processing](Domain_3_-_Processing/README.md) | 17%
+영역 4 - [Analysis](Domain_4_-_Analysis/README.md) | 17%
+영역 5 - [Visualization](Domain_5_-_Visualization/README.md) | 12%
+영역 6 - [Data Security](Domain_6_-_Security/README.md) | 20%
+
+* [실제 10개 샘플문제(PDF)](https://d0.awsstatic.com/training-and-certification/docs-bigdata-spec/AWS_Certified_Big_Data_Specialty_SampleExam.pdf).
+
+
 ### 응시 조건 
  이 시험에 응시하려면 유효한 AWS 어소시에이트 자격증(AWS 공인 솔루션스 아키텍트 - 어소시에이트,
 AWS 공인 개발자 - 어소시에이트 또는 AWS 공인 SysOps 관리자 - 어소시에이트) 또는 유효한 AWS
@@ -26,19 +41,5 @@ AWS 공인 개발자 - 어소시에이트 또는 AWS 공인 SysOps 관리자 - �
 * 여러 가지 유형의 소스에서 다양한 빈도(배치/실시간)로 데이터를 처리할 수 있는 도구를 이해하고 플랫폼 설계
 * 확장 가능하고 경제적인 데이터 처리 아키텍처를 설계할 수 있음
 
-
-  [AWS 공인 빅 데이터 -
-전문 분야 시험 안내서(PDF)](https://d1.awsstatic.com/training-and-certification/docs-bigdata-spec/AWS%20Certified%20Big%20Data%20-%20Specialty_Exam%20Guide_v1.2_FINAL_KOR.pdf) 시험범위와 구성을 보여줍니다.
-
-영역 | 시험분포(%)
--------|-------------------
-영역 1 - [Collection](Domain_1_-_Collection/README.md) | 17%
-영역 2 - [Storage](Domain_2_-_Storage/README.md) | 17%
-영역 3 - [Processing](Domain_3_-_Processing/README.md) | 17%
-영역 4 - [Analysis](Domain_4_-_Analysis/README.md) | 17%
-영역 5 - [Visualization](Domain_5_-_Visualization/README.md) | 12%
-영역 6 - [Data Security](Domain_6_-_Security/README.md) | 20%
-
-* [실제 10개 샘플문제(PDF)](https://d0.awsstatic.com/training-and-certification/docs-bigdata-spec/AWS_Certified_Big_Data_Specialty_SampleExam.pdf).
 
 * 문서에 오류가 있으면 언제든지 환영합니다.
