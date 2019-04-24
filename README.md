@@ -51,7 +51,7 @@ AWS 백서(https://aws.amazon.com/ko/whitepapers/) Kindle 및 .pdf
 * AWS 설명서(https://docs.aws.amazon.com/index.html)
 * AWS FAQ(https://aws.amazon.com/ko/faqs/)
 * AWS Case-studies(https://aws.amazon.com/ko/solutions/case-studies/)
-* AWS (https://docs.aws.amazon.com/ko_kr/general/latest/gr/glos-chap.html)
+* AWS 용어집(https://docs.aws.amazon.com/ko_kr/general/latest/gr/glos-chap.html)
 
 #
 
