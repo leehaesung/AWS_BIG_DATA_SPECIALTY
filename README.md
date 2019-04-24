@@ -21,6 +21,7 @@
 
 * [실제 10개 샘플문제(PDF)](https://d0.awsstatic.com/training-and-certification/docs-bigdata-spec/AWS_Certified_Big_Data_Specialty_SampleExam.pdf).
 
+#
 
 ### 응시 조건 
  이 시험에 응시하려면 유효한 AWS 어소시에이트 자격증(AWS 공인 솔루션스 아키텍트 - 어소시에이트,
