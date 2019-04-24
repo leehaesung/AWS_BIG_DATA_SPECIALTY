@@ -8,8 +8,7 @@
 * 빅 데이터 설계 및 유지 관리
 * 도구를 사용하여 데이터 분석 자동화
 
-### [AWS 공인 빅 데이터 -
-전문 분야 시험 안내서(PDF)](https://d1.awsstatic.com/training-and-certification/docs-bigdata-spec/AWS%20Certified%20Big%20Data%20-%20Specialty_Exam%20Guide_v1.2_FINAL_KOR.pdf) 시험범위와 구성을 보여줍니다.
+* [AWS 공인 빅 데이터 - 전문 분야 시험 안내서(PDF)](https://d1.awsstatic.com/training-and-certification/docs-bigdata-spec/AWS%20Certified%20Big%20Data%20-%20Specialty_Exam%20Guide_v1.2_FINAL_KOR.pdf) 시험범위와 구성을 보여줍니다.
 
 영역 | 시험분포(%)
 -------|-------------------
