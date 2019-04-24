@@ -1,5 +1,7 @@
 # AWS IoT Analytics
 
+![SeoulWeather](https://raw.githubusercontent.com/leehaesung/AWS_BIG_DATA_SPECIALTY/master/data/SeoulWeatherAWSIoTArchitecture.png)
+
 ![Image](https://raw.githubusercontent.com/leehaesung/AWS_BIG_DATA_SPECIALTY/master/data/AWS-IoT_Analytics.png)
 
 1. Dust Data
