@@ -11,8 +11,8 @@
 영역 5 - [Visualization](Domain_5_-_Visualization/README.md) | 12%
 영역 6 - [Data Security](Domain_6_-_Security/README.md) | 20%
 
-A set of ~ [10 sample exam questions can be downloaded here](https://d0.awsstatic.com/training-and-certification/docs-bigdata-spec/AWS_Certified_Big_Data_Specialty_SampleExam.pdf).
+[실제 10개 샘플문제(PDF)](https://d0.awsstatic.com/training-and-certification/docs-bigdata-spec/AWS_Certified_Big_Data_Specialty_SampleExam.pdf).
 
 This repository represents notes on the [A Cloud Guru lectures](https://acloud.guru/learn/aws-certified-big-data-specialty) for this topic.
 
-Please feel free to suggest changes through PRs!
+문서에 오류가 있으면 언제든지 환영합니다.
