@@ -42,14 +42,12 @@ AWS 공인 개발자 - 어소시에이트 또는 AWS 공인 SysOps 관리자 - �
 
 ### 시험 준비
 시험 준비에 도움이 되는 교육 과정과 자료는 다음과 같습니다.
-AWS 교육(aws.amazon.com/ko/training)
-* 빅 데이터 기술 기초
-https://aws.amazon.com/ko/training/course-descriptions/bigdata-fundamentals/
-* AWS 기반 빅 데이터
-https://aws.amazon.com/ko/training/course-descriptions/bigdata/
+AWS 교육(https://aws.amazon.com/ko/training/)
+* 빅 데이터 기술 기초: https://aws.amazon.com/ko/training/course-descriptions/bigdata-fundamentals/
+* AWS 기반 빅 데이터: https://aws.amazon.com/ko/training/course-descriptions/bigdata/
 AWS 백서(aws.amazon.com/ko/whitepapers) Kindle 및 .pdf
-* AWS 클라우드 컴퓨팅 백서(aws.amazon.com/ko/whitepapers), 특히 데이터베이스 및 분석
-* AWS 설명서(aws.amazon.com/ko/documentation)
+* AWS 클라우드 컴퓨팅 백서(https://aws.amazon.com/ko/whitepapers/), 특히 데이터베이스 및 분석
+* AWS 설명서(https://docs.aws.amazon.com/index.html)
 
 
 * 문서에 오류가 있으면 언제든지 환영합니다.
