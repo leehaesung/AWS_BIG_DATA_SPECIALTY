@@ -1,6 +1,6 @@
 # AWS 공인 빅 데이터 – 전문 분야
 
- [AWS 공인 빅 데이터 - 전문 분야(BDS-C00)](https://aws.amazon.com/certification/certified-big-data-specialty/)] 시험은 복잡한 빅 데이터 분석을 담당하는 사람을 위한 시험입니다. 이 시험에서는 AWS 서비스의 설계 및 구현을 통해 데이터에서 가치를 이끌어 내는 응시자의 기술적 스킬과 경험을 검증합니다.
+ [AWS 공인 빅 데이터 - 전문 분야(BDS-C00)](https://aws.amazon.com/certification/certified-big-data-specialty/) 시험은 복잡한 빅 데이터 분석을 담당하는 사람을 위한 시험입니다. 이 시험에서는 AWS 서비스의 설계 및 구현을 통해 데이터에서 가치를 이끌어 내는 응시자의 기술적 스킬과 경험을 검증합니다.
 
 이 시험에서는 다음과 같은 응시자의 능력을 검증합니다.
 
