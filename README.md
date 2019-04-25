@@ -53,6 +53,7 @@ AWS 백서(https://aws.amazon.com/ko/whitepapers/) Kindle 및 .pdf
 * AWS Case-studies(https://aws.amazon.com/ko/solutions/case-studies/)
 * AWS 용어집(https://docs.aws.amazon.com/ko_kr/general/latest/gr/glos-chap.html)
 * AWS 시작하기(https://aws.amazon.com/ko/getting-started)
+* AWS Discussion Forums(https://forums.aws.amazon.com/)
 
 #
 
