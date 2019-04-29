@@ -17,7 +17,7 @@
 영역 3 - [처리](Domain_3_-_Processing/README.md) | 17%
 영역 4 - [분석](Domain_4_-_Analysis/README.md) | 17%
 영역 5 - [시각화](Domain_5_-_Visualization/README.md) | 12%
-영역 6 - [데이터 ](Domain_6_-_Security/README.md) | 20%
+영역 6 - [데이터 보안](Domain_6_-_Security/README.md) | 20%
 
 * [실제시험 10문항 샘플(PDF)](https://github.com/leehaesung/AWS_BIG_DATA_SPECIALTY/raw/master/data/AWS_Certified_Big_Data_Specialty_SampleExam.pdf)
 
