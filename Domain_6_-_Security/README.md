@@ -1,1 +1,1 @@
-# 영역 6 - 보안(Security)
+# 영역 6 - 데이터 보안(Security)
